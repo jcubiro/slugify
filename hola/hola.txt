@@ -1,3 +1,0 @@
-Hola, esta es la version master de hola.txt
-
-En esta modificación de master voy a añadir un adiós, que es una forma de despedirse. 
